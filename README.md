@@ -1,5 +1,5 @@
 # Rediseño de un cargador USB
-En este repositorio se pretende diseñar la PCB de un cargador USB. Para ello vamos a partir de un cargador antiguo que estudiaremos y mejoraremos.  
+En este repositorio se pretende rediseñar la PCB de un cargador USB. Para ello vamos a partir de un cargador antiguo que estudiaremos y mejoraremos.  
 ## Diseño original
 ![000_original](000_original.jpeg)
 
